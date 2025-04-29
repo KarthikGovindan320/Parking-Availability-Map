@@ -2,7 +2,7 @@
 
 ## Overview
 Parking is one of the major downsides of living in a big city.  
-Finding **legal parking**, especially around crowded areas like shopping malls, can be a real challenge.
+Finding **legal parking** spots, especially around crowded areas like shopping malls, can be a real challenge.
 
 Sometimes, we wish there were a **Google Maps-style** service that shows available parking spots — maybe even lets us **book them in advance**.  
 So, instead of wishing... why not build it?
